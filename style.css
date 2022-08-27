@@ -1,0 +1,35 @@
+:root {
+  --primarycolor-white: hsl(0, 0%, 100%);
+  --secondarycolor-lightgray: hsl(212, 45%, 89%);
+  --thirdcolor-Grayish-blue:  hsl(220, 15%, 55%);
+  --fourthcolor-Dark-blue: hsl(218, 44%, 22%);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
