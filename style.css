@@ -71,3 +71,21 @@ img {
   margin-top: 10px;
  }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+
+@media (max-width: 375px) {
+  body {
+    min-height: 100vh;
+    min-width: 100vw;
+        
+  }
+
+  .main__container {
+    width: 300px;
+    height: 420px;
+    background-color: var(--primarycolor-white);
+    border-radius: 30px;
+    
+  }
+}
+  
